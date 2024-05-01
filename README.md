@@ -35,6 +35,6 @@ Contributions to the project are welcome! Please open an issue or pull request i
 
 ## Contact
 
-For any questions or concerns, please go to this (site)[https://e-z.bio/blzsrc]
+For any questions or concerns, please go to this [site](https://e-z.bio/blzsrc)
 
 ---
