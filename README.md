@@ -17,7 +17,7 @@ Welcome to the .src gen bot repository! This project is a gen bot used for distr
 
 ## Usage
 
-1- there will be a video keep checking here.
+https://www.youtube.com/watch?v=S29MwhNpbH0
 
 ## Configuration
 
